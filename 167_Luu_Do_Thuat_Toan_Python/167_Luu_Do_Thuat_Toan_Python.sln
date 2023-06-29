@@ -93,6 +93,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai136", "Bai136\Bai136.pyp
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai142", "Bai142\Bai142.pyproj", "{0A255551-4F2E-4B27-A1E9-CD87E7302CF3}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai063", "Bai063\Bai063.pyproj", "{9186E7EB-5187-4DFF-A5F5-DAE888DA73C6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai069", "Bai069\Bai069.pyproj", "{1BE4C5DD-E19D-4A03-8632-F0A6793D7F8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,10 @@ Global
 		{792356C5-113D-42A2-AA6A-B88A1E9C6A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A255551-4F2E-4B27-A1E9-CD87E7302CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0A255551-4F2E-4B27-A1E9-CD87E7302CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9186E7EB-5187-4DFF-A5F5-DAE888DA73C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9186E7EB-5187-4DFF-A5F5-DAE888DA73C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE4C5DD-E19D-4A03-8632-F0A6793D7F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE4C5DD-E19D-4A03-8632-F0A6793D7F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
